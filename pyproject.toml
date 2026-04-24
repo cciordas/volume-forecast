@@ -17,5 +17,6 @@ dependencies = [
 dev = [
     "matplotlib>=3.10.9",
     "notebook>=7.5.5",
+    "statsmodels>=0.14.6",
 ]
 
