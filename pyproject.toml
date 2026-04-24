@@ -13,3 +13,8 @@ dependencies = [
       "pandas>=3.0.2",
 ]
 
+[dependency-groups]
+dev = [
+    "notebook>=7.5.5",
+]
+
