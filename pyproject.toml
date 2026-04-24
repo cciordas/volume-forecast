@@ -15,6 +15,7 @@ dependencies = [
       "numba>=0.65.1",
       "numpy>=2.4.4",
       "scipy>=1.17.1",
+      "bentoticks",
 ]
 
 [dependency-groups]
@@ -22,4 +23,7 @@ dev = [
     "matplotlib>=3.10.9",
     "notebook>=7.5.5",
 ]
+
+[tool.uv.sources]
+bentoticks = { git = "ssh://git@github.com/cciordas/bentoticks.git" }
 
