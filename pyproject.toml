@@ -9,6 +9,7 @@ dependencies = [
       "arxiv",
       "pypdf",
       "pyyaml",
-      "marker-pdf"
+      "marker-pdf",
+      "pandas>=3.0.2",
 ]
 
