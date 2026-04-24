@@ -11,12 +11,12 @@ dependencies = [
       "pyyaml",
       "marker-pdf",
       "pandas>=3.0.2",
+      "statsmodels>=0.14.6",
 ]
 
 [dependency-groups]
 dev = [
     "matplotlib>=3.10.9",
     "notebook>=7.5.5",
-    "statsmodels>=0.14.6",
 ]
 

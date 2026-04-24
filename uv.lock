@@ -3273,13 +3273,13 @@ dependencies = [
     { name = "pypdf" },
     { name = "pyyaml" },
     { name = "requests" },
+    { name = "statsmodels" },
 ]
 
 [package.dev-dependencies]
 dev = [
     { name = "matplotlib" },
     { name = "notebook" },
-    { name = "statsmodels" },
 ]
 
 [package.metadata]
@@ -3291,13 +3291,13 @@ requires-dist = [
     { name = "pypdf" },
     { name = "pyyaml" },
     { name = "requests" },
+    { name = "statsmodels", specifier = ">=0.14.6" },
 ]
 
 [package.metadata.requires-dev]
 dev = [
     { name = "matplotlib", specifier = ">=3.10.9" },
     { name = "notebook", specifier = ">=7.5.5" },
-    { name = "statsmodels", specifier = ">=0.14.6" },
 ]
 
 [[package]]
