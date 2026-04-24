@@ -1,0 +1,7 @@
+logs/researcher_direction_7/run_10_critic.log.md
+logs/researcher_direction_7/run_10_critic.files.md
+work/researcher/direction_7/run_10/researcher_critique_1.md
+work/researcher/direction_7/run_10/researcher_critique_2.md
+work/researcher/direction_7/run_10/researcher_critique_3.md
+work/researcher/direction_7/run_10/researcher_critique_4.md
+work/researcher/direction_7/run_10/researcher_critique_5.md

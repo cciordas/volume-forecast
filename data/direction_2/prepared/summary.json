@@ -1,0 +1,80 @@
+{
+  "tickers": [
+    "AAPL",
+    "AMGN",
+    "AMZN",
+    "AXP",
+    "BA",
+    "CAT",
+    "CRM",
+    "CSCO",
+    "CVX",
+    "DIS",
+    "GS",
+    "HD",
+    "HON",
+    "IBM",
+    "JNJ",
+    "JPM",
+    "KO",
+    "MCD",
+    "MMM",
+    "MRK",
+    "MSFT",
+    "NKE",
+    "NVDA",
+    "PG",
+    "SHW",
+    "TRV",
+    "UNH",
+    "V",
+    "VZ",
+    "WMT"
+  ],
+  "n_stocks": 30,
+  "k_bins": 26,
+  "bin_minutes": 15,
+  "l_window": 20,
+  "adv_window": 60,
+  "half_days_excluded": [
+    "2023-07-03",
+    "2023-11-24",
+    "2024-07-03",
+    "2024-11-29",
+    "2024-12-24",
+    "2025-07-03",
+    "2025-11-28",
+    "2025-12-24"
+  ],
+  "total_regular_days": 686,
+  "date_range": {
+    "start": "2023-03-28",
+    "end": "2025-12-31"
+  },
+  "splits": {
+    "train": {
+      "start": "2023-03-28",
+      "end": "2024-06-28",
+      "n_days": 314
+    },
+    "validate": {
+      "start": "2024-07-01",
+      "end": "2024-12-31",
+      "n_days": 125
+    },
+    "test": {
+      "start": "2025-01-02",
+      "end": "2025-12-31",
+      "n_days": 247
+    }
+  },
+  "normalization": "ADV (trailing 60-day average daily volume)",
+  "turnover_stats": {
+    "mean": 0.038787101578542295,
+    "std": 0.043450515691334214,
+    "min": 1.6212044900879557e-05,
+    "max": 2.3567869646249786,
+    "q05": 0.009419645134313122,
+    "q95": 0.10702544222205813
+  }
+}

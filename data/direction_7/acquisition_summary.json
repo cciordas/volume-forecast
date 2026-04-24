@@ -1,0 +1,167 @@
+{
+  "intraday": {
+    "SPY": {
+      "status": "failed",
+      "error": "Failed to read /mktdata/databento/schema=ohlcv-1m/instrument=SPY/dataset=EQUS.MINI/year=2026/SPY_ohlcv-1m_EQUS.MINI_20260127.parquet (delete and re-download): Repetition level histogram size mismatch"
+    },
+    "DIA": {
+      "status": "acquired",
+      "rows": 208333,
+      "days": 626,
+      "size_mb": 2.43,
+      "path": "data/direction_7/DIA_1m.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "QQQ": {
+      "status": "acquired",
+      "rows": 242966,
+      "days": 626,
+      "size_mb": 3.15,
+      "path": "data/direction_7/QQQ_1m.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "AAPL": {
+      "status": "acquired",
+      "rows": 242947,
+      "days": 626,
+      "size_mb": 2.79,
+      "path": "data/direction_7/AAPL_1m.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "AMZN": {
+      "status": "acquired",
+      "rows": 242959,
+      "days": 626,
+      "size_mb": 2.8,
+      "path": "data/direction_7/AMZN_1m.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "GOOG": {
+      "status": "acquired",
+      "rows": 242734,
+      "days": 626,
+      "size_mb": 2.85,
+      "path": "data/direction_7/GOOG_1m.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "IBM": {
+      "status": "acquired",
+      "rows": 235958,
+      "days": 626,
+      "size_mb": 2.75,
+      "path": "data/direction_7/IBM_1m.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "JPM": {
+      "status": "acquired",
+      "rows": 242018,
+      "days": 626,
+      "size_mb": 2.88,
+      "path": "data/direction_7/JPM_1m.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "MSFT": {
+      "status": "acquired",
+      "rows": 242875,
+      "days": 626,
+      "size_mb": 3.02,
+      "path": "data/direction_7/MSFT_1m.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "XOM": {
+      "status": "acquired",
+      "rows": 242741,
+      "days": 626,
+      "size_mb": 2.43,
+      "path": "data/direction_7/XOM_1m.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    }
+  },
+  "daily": {
+    "SPY": {
+      "status": "failed",
+      "error": "Failed to read /mktdata/databento/schema=ohlcv-1d/instrument=SPY/dataset=EQUS.MINI/year=2026/SPY_ohlcv-1d_EQUS.MINI_20260127.parquet (delete and re-download): Repetition level histogram size mismatch"
+    },
+    "DIA": {
+      "status": "acquired",
+      "rows": 626,
+      "size_mb": 0.026,
+      "path": "data/direction_7/DIA_1d.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "QQQ": {
+      "status": "acquired",
+      "rows": 626,
+      "size_mb": 0.026,
+      "path": "data/direction_7/QQQ_1d.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "AAPL": {
+      "status": "acquired",
+      "rows": 626,
+      "size_mb": 0.026,
+      "path": "data/direction_7/AAPL_1d.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "AMZN": {
+      "status": "acquired",
+      "rows": 626,
+      "size_mb": 0.026,
+      "path": "data/direction_7/AMZN_1d.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "GOOG": {
+      "status": "acquired",
+      "rows": 626,
+      "size_mb": 0.026,
+      "path": "data/direction_7/GOOG_1d.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "IBM": {
+      "status": "acquired",
+      "rows": 626,
+      "size_mb": 0.026,
+      "path": "data/direction_7/IBM_1d.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "JPM": {
+      "status": "acquired",
+      "rows": 626,
+      "size_mb": 0.026,
+      "path": "data/direction_7/JPM_1d.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "MSFT": {
+      "status": "acquired",
+      "rows": 626,
+      "size_mb": 0.026,
+      "path": "data/direction_7/MSFT_1d.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    },
+    "XOM": {
+      "status": "acquired",
+      "rows": 626,
+      "size_mb": 0.025,
+      "path": "data/direction_7/XOM_1d.parquet",
+      "date_min": "2023-10-02",
+      "date_max": "2026-03-31"
+    }
+  }
+}

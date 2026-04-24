@@ -1,0 +1,601 @@
+{
+  "intraday": {
+    "AAPL": {
+      "status": "acquired",
+      "rows": 194767,
+      "days": 502,
+      "size_mb": 2.3,
+      "path": "data/direction_4/AAPL_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "AMD": {
+      "status": "acquired",
+      "rows": 194768,
+      "days": 502,
+      "size_mb": 2.39,
+      "path": "data/direction_4/AMD_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "AMGN": {
+      "status": "acquired",
+      "rows": 177428,
+      "days": 502,
+      "size_mb": 1.97,
+      "path": "data/direction_4/AMGN_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "AMZN": {
+      "status": "acquired",
+      "rows": 194778,
+      "days": 502,
+      "size_mb": 2.26,
+      "path": "data/direction_4/AMZN_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "AXP": {
+      "status": "acquired",
+      "rows": 185575,
+      "days": 502,
+      "size_mb": 2.29,
+      "path": "data/direction_4/AXP_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "BA": {
+      "status": "acquired",
+      "rows": 191546,
+      "days": 502,
+      "size_mb": 2.18,
+      "path": "data/direction_4/BA_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "CAT": {
+      "status": "acquired",
+      "rows": 183671,
+      "days": 502,
+      "size_mb": 2.48,
+      "path": "data/direction_4/CAT_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "CRM": {
+      "status": "acquired",
+      "rows": 193115,
+      "days": 502,
+      "size_mb": 2.23,
+      "path": "data/direction_4/CRM_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "CSCO": {
+      "status": "acquired",
+      "rows": 193929,
+      "days": 502,
+      "size_mb": 1.82,
+      "path": "data/direction_4/CSCO_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "CVX": {
+      "status": "acquired",
+      "rows": 193872,
+      "days": 502,
+      "size_mb": 1.76,
+      "path": "data/direction_4/CVX_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "DIS": {
+      "status": "acquired",
+      "rows": 193928,
+      "days": 502,
+      "size_mb": 1.92,
+      "path": "data/direction_4/DIS_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "GOOG": {
+      "status": "acquired",
+      "rows": 194601,
+      "days": 502,
+      "size_mb": 2.29,
+      "path": "data/direction_4/GOOG_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "GS": {
+      "status": "acquired",
+      "rows": 184647,
+      "days": 502,
+      "size_mb": 2.77,
+      "path": "data/direction_4/GS_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "HD": {
+      "status": "acquired",
+      "rows": 187863,
+      "days": 502,
+      "size_mb": 2.11,
+      "path": "data/direction_4/HD_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "HON": {
+      "status": "acquired",
+      "rows": 184023,
+      "days": 502,
+      "size_mb": 1.86,
+      "path": "data/direction_4/HON_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "IBM": {
+      "status": "acquired",
+      "rows": 188311,
+      "days": 502,
+      "size_mb": 2.24,
+      "path": "data/direction_4/IBM_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "INTC": {
+      "status": "acquired",
+      "rows": 194297,
+      "days": 502,
+      "size_mb": 1.95,
+      "path": "data/direction_4/INTC_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "JNJ": {
+      "status": "acquired",
+      "rows": 193344,
+      "days": 502,
+      "size_mb": 1.95,
+      "path": "data/direction_4/JNJ_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "JPM": {
+      "status": "acquired",
+      "rows": 193884,
+      "days": 502,
+      "size_mb": 2.28,
+      "path": "data/direction_4/JPM_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "KO": {
+      "status": "acquired",
+      "rows": 193954,
+      "days": 502,
+      "size_mb": 1.65,
+      "path": "data/direction_4/KO_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "MCD": {
+      "status": "acquired",
+      "rows": 186267,
+      "days": 502,
+      "size_mb": 1.92,
+      "path": "data/direction_4/MCD_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "META": {
+      "status": "acquired",
+      "rows": 194520,
+      "days": 502,
+      "size_mb": 2.8,
+      "path": "data/direction_4/META_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "MMM": {
+      "status": "acquired",
+      "rows": 183312,
+      "days": 502,
+      "size_mb": 1.9,
+      "path": "data/direction_4/MMM_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "MRK": {
+      "status": "acquired",
+      "rows": 194007,
+      "days": 502,
+      "size_mb": 1.98,
+      "path": "data/direction_4/MRK_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "MSFT": {
+      "status": "acquired",
+      "rows": 194692,
+      "days": 502,
+      "size_mb": 2.36,
+      "path": "data/direction_4/MSFT_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "NKE": {
+      "status": "acquired",
+      "rows": 194379,
+      "days": 502,
+      "size_mb": 1.97,
+      "path": "data/direction_4/NKE_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "NVDA": {
+      "status": "acquired",
+      "rows": 194934,
+      "days": 502,
+      "size_mb": 2.92,
+      "path": "data/direction_4/NVDA_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "PG": {
+      "status": "acquired",
+      "rows": 193726,
+      "days": 502,
+      "size_mb": 1.78,
+      "path": "data/direction_4/PG_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "SHW": {
+      "status": "acquired",
+      "rows": 170316,
+      "days": 502,
+      "size_mb": 1.96,
+      "path": "data/direction_4/SHW_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "TRV": {
+      "status": "acquired",
+      "rows": 159452,
+      "days": 502,
+      "size_mb": 1.86,
+      "path": "data/direction_4/TRV_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "TSLA": {
+      "status": "acquired",
+      "rows": 194937,
+      "days": 502,
+      "size_mb": 2.79,
+      "path": "data/direction_4/TSLA_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "UNH": {
+      "status": "acquired",
+      "rows": 191182,
+      "days": 502,
+      "size_mb": 2.7,
+      "path": "data/direction_4/UNH_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "V": {
+      "status": "acquired",
+      "rows": 192942,
+      "days": 502,
+      "size_mb": 2.15,
+      "path": "data/direction_4/V_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "VZ": {
+      "status": "acquired",
+      "rows": 192887,
+      "days": 502,
+      "size_mb": 1.58,
+      "path": "data/direction_4/VZ_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "WMT": {
+      "status": "acquired",
+      "rows": 194410,
+      "days": 502,
+      "size_mb": 2.02,
+      "path": "data/direction_4/WMT_1m.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    }
+  },
+  "daily": {
+    "AAPL": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/AAPL_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "AMD": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.022,
+      "path": "data/direction_4/AMD_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "AMGN": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/AMGN_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "AMZN": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/AMZN_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "AXP": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/AXP_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "BA": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/BA_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "CAT": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/CAT_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "CRM": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/CRM_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "CSCO": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/CSCO_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "CVX": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.02,
+      "path": "data/direction_4/CVX_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "DIS": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/DIS_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "GOOG": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/GOOG_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "GS": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/GS_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "HD": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/HD_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "HON": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/HON_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "IBM": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/IBM_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "INTC": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/INTC_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "JNJ": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/JNJ_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "JPM": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/JPM_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "KO": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.02,
+      "path": "data/direction_4/KO_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "MCD": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/MCD_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "META": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/META_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "MMM": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/MMM_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "MRK": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/MRK_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "MSFT": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/MSFT_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "NKE": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/NKE_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "NVDA": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.022,
+      "path": "data/direction_4/NVDA_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "PG": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.02,
+      "path": "data/direction_4/PG_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "SHW": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/SHW_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "TRV": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/TRV_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "TSLA": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.022,
+      "path": "data/direction_4/TSLA_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "UNH": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/UNH_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "V": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/V_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "VZ": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.019,
+      "path": "data/direction_4/VZ_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    },
+    "WMT": {
+      "status": "acquired",
+      "rows": 502,
+      "size_mb": 0.021,
+      "path": "data/direction_4/WMT_1d.parquet",
+      "date_min": "2024-01-02",
+      "date_max": "2025-12-31"
+    }
+  }
+}

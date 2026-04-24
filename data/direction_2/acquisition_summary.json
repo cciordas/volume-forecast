@@ -1,0 +1,302 @@
+[
+  {
+    "ticker": "AAPL",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/AAPL_1m.parquet",
+    "rows": 269299,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.91,
+    "error": null
+  },
+  {
+    "ticker": "AMGN",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/AMGN_1m.parquet",
+    "rows": 248075,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.65,
+    "error": null
+  },
+  {
+    "ticker": "AMZN",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/AMZN_1m.parquet",
+    "rows": 269301,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.98,
+    "error": null
+  },
+  {
+    "ticker": "AXP",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/AXP_1m.parquet",
+    "rows": 257215,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 3.06,
+    "error": null
+  },
+  {
+    "ticker": "BA",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/BA_1m.parquet",
+    "rows": 264293,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.78,
+    "error": null
+  },
+  {
+    "ticker": "CAT",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/CAT_1m.parquet",
+    "rows": 255136,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 3.23,
+    "error": null
+  },
+  {
+    "ticker": "CRM",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/CRM_1m.parquet",
+    "rows": 267087,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.88,
+    "error": null
+  },
+  {
+    "ticker": "CSCO",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/CSCO_1m.parquet",
+    "rows": 268319,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.38,
+    "error": null
+  },
+  {
+    "ticker": "CVX",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/CVX_1m.parquet",
+    "rows": 268352,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.32,
+    "error": null
+  },
+  {
+    "ticker": "DIS",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/DIS_1m.parquet",
+    "rows": 268420,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.48,
+    "error": null
+  },
+  {
+    "ticker": "GS",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/GS_1m.parquet",
+    "rows": 254909,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 3.6,
+    "error": null
+  },
+  {
+    "ticker": "HD",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/HD_1m.parquet",
+    "rows": 261199,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.81,
+    "error": null
+  },
+  {
+    "ticker": "HON",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/HON_1m.parquet",
+    "rows": 256099,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.41,
+    "error": null
+  },
+  {
+    "ticker": "IBM",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/IBM_1m.parquet",
+    "rows": 262085,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.98,
+    "error": null
+  },
+  {
+    "ticker": "JNJ",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/JNJ_1m.parquet",
+    "rows": 267747,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.53,
+    "error": null
+  },
+  {
+    "ticker": "JPM",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/JPM_1m.parquet",
+    "rows": 268388,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 3.03,
+    "error": null
+  },
+  {
+    "ticker": "KO",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/KO_1m.parquet",
+    "rows": 268235,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.3,
+    "error": null
+  },
+  {
+    "ticker": "MCD",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/MCD_1m.parquet",
+    "rows": 258748,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.5,
+    "error": null
+  },
+  {
+    "ticker": "MMM",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/MMM_1m.parquet",
+    "rows": 256536,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.46,
+    "error": null
+  },
+  {
+    "ticker": "MRK",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/MRK_1m.parquet",
+    "rows": 268323,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.52,
+    "error": null
+  },
+  {
+    "ticker": "MSFT",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/MSFT_1m.parquet",
+    "rows": 269220,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 3.21,
+    "error": null
+  },
+  {
+    "ticker": "NKE",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/NKE_1m.parquet",
+    "rows": 268826,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.58,
+    "error": null
+  },
+  {
+    "ticker": "NVDA",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/NVDA_1m.parquet",
+    "rows": 269463,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 3.8,
+    "error": null
+  },
+  {
+    "ticker": "PG",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/PG_1m.parquet",
+    "rows": 268155,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.34,
+    "error": null
+  },
+  {
+    "ticker": "SHW",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/SHW_1m.parquet",
+    "rows": 236713,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.65,
+    "error": null
+  },
+  {
+    "ticker": "TRV",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/TRV_1m.parquet",
+    "rows": 224723,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.47,
+    "error": null
+  },
+  {
+    "ticker": "UNH",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/UNH_1m.parquet",
+    "rows": 263899,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 3.3,
+    "error": null
+  },
+  {
+    "ticker": "V",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/V_1m.parquet",
+    "rows": 267181,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.81,
+    "error": null
+  },
+  {
+    "ticker": "VZ",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/VZ_1m.parquet",
+    "rows": 266953,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.19,
+    "error": null
+  },
+  {
+    "ticker": "WMT",
+    "status": "acquired",
+    "path": "/home/cciordas/Programming/finance/quant-models/volume-profile/data/direction_2/WMT_1m.parquet",
+    "rows": 268726,
+    "date_min": "2023-03-28",
+    "date_max": "2025-12-31",
+    "size_mb": 2.6,
+    "error": null
+  }
+]

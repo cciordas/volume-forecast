@@ -1,0 +1,12 @@
+logs/librarian.log.md
+logs/librarian.files.md
+artifacts/paper_manifest.md
+papers/brownlees_cipollini_gallo_2011.pdf
+papers/bialkowski_darolles_lefol_2008.pdf
+papers/szucs_2017.pdf
+papers/satish_saxena_palmer_2014.pdf
+papers/markov_vilenskaia_rashkovich_2019.pdf
+papers/mcculloch_2007.pdf
+papers/calvori_cipollini_gallo_2014.pdf
+papers/naimoli_storti_2019.pdf
+papers/chen_feng_palomar_2016.pdf

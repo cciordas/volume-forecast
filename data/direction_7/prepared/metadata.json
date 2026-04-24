@@ -1,0 +1,146 @@
+{
+  "bins_per_day": 26,
+  "bin_width_minutes": 15,
+  "session_start": "09:30",
+  "session_end": "16:00",
+  "adv_lookback": 60,
+  "normalization": "ADV-60 (rolling 60-day average daily volume, lagged by 1 day)",
+  "log_transform": "natural log of (volume / ADV-60)",
+  "half_day_threshold": 385,
+  "tickers": [
+    "SPY",
+    "DIA",
+    "QQQ",
+    "AAPL",
+    "AMZN",
+    "GOOG",
+    "IBM",
+    "JPM",
+    "MSFT",
+    "XOM"
+  ],
+  "n_common_full_days": 619,
+  "excluded_dates": [
+    "2023-11-24",
+    "2024-07-03",
+    "2024-11-29",
+    "2024-12-24",
+    "2025-07-03",
+    "2025-11-28",
+    "2025-12-24"
+  ],
+  "date_range_paper": "2014-01-02 to 2016-06-30",
+  "date_range_substitute": "2023-10-02 to 2026-03-31",
+  "ticker_summaries": [
+    {
+      "ticker": "SPY",
+      "raw_1m_bars": 243011,
+      "n_days": 559,
+      "date_range": "2023-12-28 to 2026-03-31",
+      "shape": "559 x 26",
+      "zero_bins": 0,
+      "zero_pct": 0.0,
+      "days_dropped_no_adv": 60,
+      "excluded_half_days": 7
+    },
+    {
+      "ticker": "DIA",
+      "raw_1m_bars": 208333,
+      "n_days": 559,
+      "date_range": "2023-12-28 to 2026-03-31",
+      "shape": "559 x 26",
+      "zero_bins": 0,
+      "zero_pct": 0.0,
+      "days_dropped_no_adv": 60,
+      "excluded_half_days": 7
+    },
+    {
+      "ticker": "QQQ",
+      "raw_1m_bars": 242966,
+      "n_days": 559,
+      "date_range": "2023-12-28 to 2026-03-31",
+      "shape": "559 x 26",
+      "zero_bins": 0,
+      "zero_pct": 0.0,
+      "days_dropped_no_adv": 60,
+      "excluded_half_days": 7
+    },
+    {
+      "ticker": "AAPL",
+      "raw_1m_bars": 242947,
+      "n_days": 559,
+      "date_range": "2023-12-28 to 2026-03-31",
+      "shape": "559 x 26",
+      "zero_bins": 0,
+      "zero_pct": 0.0,
+      "days_dropped_no_adv": 60,
+      "excluded_half_days": 7
+    },
+    {
+      "ticker": "AMZN",
+      "raw_1m_bars": 242959,
+      "n_days": 559,
+      "date_range": "2023-12-28 to 2026-03-31",
+      "shape": "559 x 26",
+      "zero_bins": 0,
+      "zero_pct": 0.0,
+      "days_dropped_no_adv": 60,
+      "excluded_half_days": 7
+    },
+    {
+      "ticker": "GOOG",
+      "raw_1m_bars": 242734,
+      "n_days": 559,
+      "date_range": "2023-12-28 to 2026-03-31",
+      "shape": "559 x 26",
+      "zero_bins": 0,
+      "zero_pct": 0.0,
+      "days_dropped_no_adv": 60,
+      "excluded_half_days": 7
+    },
+    {
+      "ticker": "IBM",
+      "raw_1m_bars": 235958,
+      "n_days": 559,
+      "date_range": "2023-12-28 to 2026-03-31",
+      "shape": "559 x 26",
+      "zero_bins": 0,
+      "zero_pct": 0.0,
+      "days_dropped_no_adv": 60,
+      "excluded_half_days": 7
+    },
+    {
+      "ticker": "JPM",
+      "raw_1m_bars": 242018,
+      "n_days": 559,
+      "date_range": "2023-12-28 to 2026-03-31",
+      "shape": "559 x 26",
+      "zero_bins": 0,
+      "zero_pct": 0.0,
+      "days_dropped_no_adv": 60,
+      "excluded_half_days": 7
+    },
+    {
+      "ticker": "MSFT",
+      "raw_1m_bars": 242875,
+      "n_days": 559,
+      "date_range": "2023-12-28 to 2026-03-31",
+      "shape": "559 x 26",
+      "zero_bins": 0,
+      "zero_pct": 0.0,
+      "days_dropped_no_adv": 60,
+      "excluded_half_days": 7
+    },
+    {
+      "ticker": "XOM",
+      "raw_1m_bars": 242741,
+      "n_days": 559,
+      "date_range": "2023-12-28 to 2026-03-31",
+      "shape": "559 x 26",
+      "zero_bins": 0,
+      "zero_pct": 0.0,
+      "days_dropped_no_adv": 60,
+      "excluded_half_days": 7
+    }
+  ]
+}
